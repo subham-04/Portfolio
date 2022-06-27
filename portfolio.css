@@ -526,6 +526,10 @@ header {
   margin: 2rem 0;
 }
 
+.footer .social-list ul {
+  padding: 0;
+}
+
 .footer .social-list__item {
   margin: 0 0.5rem;
 }
@@ -559,5 +563,9 @@ header {
 .portfolio-item-individual p {
   max-width: 50rem;
   margin: 1rem auto;
+}
+
+ul {
+  padding: 0;
 }
 /*# sourceMappingURL=portfolio.css.map */
