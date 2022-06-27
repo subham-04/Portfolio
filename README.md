@@ -28,4 +28,4 @@
 
 link to demo
 
-https://earnest-lokum-37e90c.netlify.app/
+https://timely-squirrel-11df0b.netlify.app/
