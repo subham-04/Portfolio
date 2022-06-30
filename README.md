@@ -16,6 +16,8 @@
 
 ![App Screenshot](https://github.com/subham-04/Portfolio/blob/main/pp.png)
 
+<br>
+
 ## Mobile View
 
 <br>
@@ -26,6 +28,6 @@
 
 ## Demo
 
-link to demo
+Demo link
 
 https://timely-squirrel-11df0b.netlify.app/
