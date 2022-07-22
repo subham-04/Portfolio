@@ -30,4 +30,4 @@
 
 Demo link
 
-https://timely-squirrel-11df0b.netlify.app/
+https://effulgent-empanada-3bb5d0.netlify.app/
